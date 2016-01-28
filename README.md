@@ -1,10 +1,10 @@
 Database in ruby
 ----------------
 
-Implemented a simple database, using multidimenisonal arrays.
+Implemented a simple command line database, using multidimenisonal arrays, in ruby.
 
 Features:
-- user interface
+- User interface
 - Create entry
 - Read entries
 - Update entries
