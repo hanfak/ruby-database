@@ -1,7 +1,7 @@
 Database in ruby
 ----------------
 
-Implemented a simple command line database, using multidimenisonal arrays, in ruby.
+Implemented a spiked command line database, using multidimenisonal arrays, in ruby.
 
 Features:
 - User interface
@@ -12,4 +12,12 @@ Features:
 - Export database to csv file
 - Import database from csv file
 
+# To run
 
+fork repo
+git clone repo to local
+In root folder of ruby-database type
+
+```
+ruby database.rb
+```
