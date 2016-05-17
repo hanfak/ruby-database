@@ -14,7 +14,6 @@ Features:
 
 # To run
 
-fork repo
 git clone repo to local
 In root folder of ruby-database type
 
